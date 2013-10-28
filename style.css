@@ -1,0 +1,9 @@
+.icon {}
+
+.icon-mail:before {
+  "content": "✉";
+}
+
+.icon-love:before {
+  "content": "♥";
+}
